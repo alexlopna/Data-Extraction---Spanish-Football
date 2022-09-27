@@ -1,0 +1,61 @@
+Temporada,Jornada,Team_ID_Casa,Equipo_Casa,Resultado_Casa,Resultado_Visitante,Equipo_Visitante,Team_ID_Visitante,ID_Partido
+Temporada_2021_22,1,42,Osasuna,2,1,Sevilla,53,SP12122-42-53
+Temporada_2021_22,1,16,Celta,2,2,Espanol,20,SP12122-16-20
+Temporada_2021_22,1,60,Valladolid,0,3,Villarreal,62,SP12122-60-62
+Temporada_2021_22,1,10,Barcelona,0,0,Vallecano,61,SP12122-10-61
+Temporada_2021_22,1,13,Cadiz,0,1,Sociedad,55,SP12122-13-55
+Temporada_2021_22,1,59,Valencia,1,0,Girona,23,SP12122-59-23
+Temporada_2021_22,1,6,Almeria,1,2,Real Madrid,45,SP12122-6-45
+Temporada_2021_22,1,7,Ath Bilbao,0,0,Mallorca,38,SP12122-7-38
+Temporada_2021_22,1,21,Getafe,0,3,Ath Madrid,9,SP12122-21-9
+Temporada_2021_22,1,12,Betis,3,0,Elche,19,SP12122-12-19
+Temporada_2021_22,2,20,Espanol,0,2,Vallecano,61,SP12122-20-61
+Temporada_2021_22,2,53,Sevilla,1,1,Valladolid,60,SP12122-53-60
+Temporada_2021_22,2,42,Osasuna,2,0,Cadiz,13,SP12122-42-13
+Temporada_2021_22,2,38,Mallorca,1,2,Betis,12,SP12122-38-12
+Temporada_2021_22,2,16,Celta,1,4,Real Madrid,45,SP12122-16-45
+Temporada_2021_22,2,7,Ath Bilbao,1,0,Valencia,59,SP12122-7-59
+Temporada_2021_22,2,9,Ath Madrid,0,2,Villarreal,62,SP12122-9-62
+Temporada_2021_22,2,55,Sociedad,1,4,Barcelona,10,SP12122-55-10
+Temporada_2021_22,2,19,Elche,1,1,Almeria,6,SP12122-19-6
+Temporada_2021_22,2,23,Girona,3,1,Getafe,21,SP12122-23-21
+Temporada_2021_22,3,23,Girona,0,1,Celta,16,SP12122-23-16
+Temporada_2021_22,3,12,Betis,1,0,Osasuna,42,SP12122-12-42
+Temporada_2021_22,3,19,Elche,0,1,Sociedad,55,SP12122-19-55
+Temporada_2021_22,3,61,Vallecano,0,2,Mallorca,38,SP12122-61-38
+Temporada_2021_22,3,6,Almeria,2,1,Sevilla,53,SP12122-6-53
+Temporada_2021_22,3,21,Getafe,0,0,Villarreal,62,SP12122-21-62
+Temporada_2021_22,3,10,Barcelona,4,0,Valladolid,60,SP12122-10-60
+Temporada_2021_22,3,20,Espanol,1,3,Real Madrid,45,SP12122-20-45
+Temporada_2021_22,3,13,Cadiz,0,4,Ath Bilbao,7,SP12122-13-7
+Temporada_2021_22,3,59,Valencia,0,1,Ath Madrid,9,SP12122-59-9
+Temporada_2021_22,4,16,Celta,3,0,Cadiz,13,SP12122-16-13
+Temporada_2021_22,4,38,Mallorca,1,1,Girona,23,SP12122-38-23
+Temporada_2021_22,4,45,Real Madrid,2,1,Betis,12,SP12122-45-12
+Temporada_2021_22,4,55,Sociedad,1,1,Ath Madrid,9,SP12122-55-9
+Temporada_2021_22,4,53,Sevilla,0,3,Barcelona,10,SP12122-53-10
+Temporada_2021_22,4,42,Osasuna,2,1,Vallecano,61,SP12122-42-61
+Temporada_2021_22,4,7,Ath Bilbao,0,1,Espanol,20,SP12122-7-20
+Temporada_2021_22,4,62,Villarreal,4,0,Elche,19,SP12122-62-19
+Temporada_2021_22,4,59,Valencia,5,1,Getafe,21,SP12122-59-21
+Temporada_2021_22,4,60,Valladolid,1,0,Almeria,6,SP12122-60-6
+Temporada_2021_22,5,23,Girona,2,1,Valladolid,60,SP12122-23-60
+Temporada_2021_22,5,61,Vallecano,2,1,Valencia,59,SP12122-61-59
+Temporada_2021_22,5,20,Espanol,2,3,Sevilla,53,SP12122-20-53
+Temporada_2021_22,5,13,Cadiz,0,4,Barcelona,10,SP12122-13-10
+Temporada_2021_22,5,9,Ath Madrid,4,1,Celta,16,SP12122-9-16
+Temporada_2021_22,5,45,Real Madrid,4,1,Mallorca,38,SP12122-45-38
+Temporada_2021_22,5,19,Elche,1,4,Ath Bilbao,7,SP12122-19-7
+Temporada_2021_22,5,21,Getafe,2,1,Sociedad,55,SP12122-21-55
+Temporada_2021_22,5,12,Betis,1,0,Villarreal,62,SP12122-12-62
+Temporada_2021_22,5,6,Almeria,0,1,Osasuna,42,SP12122-6-42
+Temporada_2021_22,6,60,Valladolid,0,1,Cadiz,13,SP12122-60-13
+Temporada_2021_22,6,38,Mallorca,1,0,Almeria,6,SP12122-38-6
+Temporada_2021_22,6,10,Barcelona,3,0,Elche,19,SP12122-10-19
+Temporada_2021_22,6,59,Valencia,3,0,Celta,16,SP12122-59-16
+Temporada_2021_22,6,7,Ath Bilbao,3,2,Vallecano,61,SP12122-7-61
+Temporada_2021_22,6,42,Osasuna,0,2,Getafe,21,SP12122-42-21
+Temporada_2021_22,6,62,Villarreal,1,1,Sevilla,53,SP12122-62-53
+Temporada_2021_22,6,12,Betis,2,1,Girona,23,SP12122-12-23
+Temporada_2021_22,6,55,Sociedad,2,1,Espanol,20,SP12122-55-20
+Temporada_2021_22,6,9,Ath Madrid,1,2,Real Madrid,45,SP12122-9-45
